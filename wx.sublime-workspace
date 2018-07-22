@@ -1,0 +1,585 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bt",
+				"btn2"
+			],
+			[
+				"p",
+				"proportion"
+			],
+			[
+				"Chec",
+				"CheckBoxApplication"
+			],
+			[
+				"E",
+				"EVT_MENU"
+			],
+			[
+				"Appe",
+				"Append"
+			],
+			[
+				"App",
+				"Append"
+			],
+			[
+				"Appen",
+				"AppendMenu"
+			],
+			[
+				"vi",
+				"view"
+			],
+			[
+				"flas",
+				"flash"
+			],
+			[
+				"re",
+				"redirec"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"retn",
+				"return"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"print",
+				"printSkill"
+			],
+			[
+				"w",
+				"weight"
+			],
+			[
+				"proto",
+				"protocol_http"
+			],
+			[
+				"url",
+				"urlopen"
+			],
+			[
+				"pro",
+				"protocol_http"
+			],
+			[
+				"HTP",
+				"HTTPS"
+			],
+			[
+				"web",
+				"web_address"
+			],
+			[
+				"http",
+				"http_url"
+			],
+			[
+				"ht",
+				"https_url"
+			],
+			[
+				"htt",
+				"http_url"
+			],
+			[
+				"https",
+				"https_url"
+			],
+			[
+				"__",
+				"__name__"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "wx08.py",
+			"settings":
+			{
+				"buffer_size": 1529,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wx09_CheckBox.py",
+			"settings":
+			{
+				"buffer_size": 742,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wx10_position.py",
+			"settings":
+			{
+				"buffer_size": 855,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wx11_sizer.py",
+			"settings":
+			{
+				"buffer_size": 1980,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wx01.py",
+			"settings":
+			{
+				"buffer_size": 138,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wx02.py",
+			"settings":
+			{
+				"buffer_size": 276,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/work/python/wxpython"
+	],
+	"file_history":
+	[
+		"/work/python/django/01/myproject/manage.py",
+		"/work/python/django/01/myproject/myproject/wsgi.py",
+		"/work/python/django/01/myproject/myproject/urls.py",
+		"/work/python/tkinter_child_window.py",
+		"/work/python/django/01/myproject/myproject/settings.py",
+		"/media/pybox/NEW/Codes/Chapt-1/Calculator_app.java",
+		"/media/pybox/NEW/Codes/Chapt-6/OnlineTest.java",
+		"/work/python/django/01/myproject/myproject/__init__.py",
+		"/work/python/django/01/myproject/db.sqlite3",
+		"/home/pybox/Downloads/flaskMySQLRegister-master/templates/layout.html",
+		"/home/pybox/Downloads/flaskMySQLRegister-master/templates/article.html",
+		"/home/pybox/Downloads/flaskMySQLRegister-master/templates/register.html",
+		"/home/pybox/Downloads/flaskMySQLRegister-master/templates/articles.html",
+		"/home/pybox/Downloads/flaskMySQLRegister-master/templates/about.html",
+		"/home/pybox/Downloads/flaskMySQLRegister-master/templates/home.html",
+		"/home/pybox/Downloads/flaskMySQLRegister-master/templates/includes/_navbar.html",
+		"/home/pybox/Downloads/flaskMySQLRegister-master/templates/includes/_fromhelpers.html",
+		"/home/pybox/Downloads/flaskMySQLRegister-master/templates/includes/_messages.html",
+		"/work/python/flask/organization/models/__init__.py",
+		"/work/python/flask/flask_roundup/wtf/example01/form.py",
+		"/work/python/flask/flask_roundup/wtf/example01/controller.py",
+		"/work/python/flask/flask_roundup/wtf/example01/templates/login.html",
+		"/work/git/office/documentlibrary02/app.py",
+		"/work/python/flask/flask_roundup/jinja2_template_basic_example/basic03/templates/form.html",
+		"/work/python/flask/flask_roundup/jinja2_template_basic_example/basic03/main.py",
+		"/work/python/flask/flask_roundup/jinja2_template_basic_example/template_inheritance/main.py",
+		"/work/python/flask/flask_roundup/jinja2_template_basic_example/template_inheritance/templates/derived.html",
+		"/work/python/flask/flask_roundup/jinja2_template_basic_example/template_inheritance/templates/base_template.html",
+		"/work/python/flask/flask_roundup/jinja2_template_basic_example/basic03/templates/display_username.html",
+		"/work/python/flask/flask_roundup/Redirect/main.py",
+		"/work/python/flask/flask_roundup/jinja2_template_basic_example/basic02/templates/showlist.html",
+		"/work/python/flask/flask_roundup/jinja2_template_basic_example/basic02/main.py",
+		"/work/git/office/documentlibrary02/templates/localsearch.html",
+		"/work/git/office/documentlibrary02/templates/globsearch.html",
+		"/work/git/office/documentlibrary02/templates/globresults.html",
+		"/work/python/flask/flask_roundup/jinja2_template_basic_example/basic01/templates/showvar.html",
+		"/work/python/flask/flask_roundup/jinja2_template_basic_example/basic01/main.py",
+		"/work/python/flask/flask_roundup/example01.py",
+		"/work/python/flask/flask_roundup/Url_Variable/main.py",
+		"/work/python/flask/flask_roundup/Example01_Template/main.py",
+		"/work/python/flask/flask_roundup/Example01_Template/templates/hello.html",
+		"/work/git/office/documentlibrary02/glob_search.py",
+		"/work/git/office/documentlibrary02/test.py",
+		"/work/git/office/documentlibrary02/global_search_engine.py",
+		"/work/git/office/documentlibrary02/test2.py",
+		"/work/python/oops/example13.py",
+		"/work/python/missing_examples/ssh_login.py",
+		"/work/python/flask/mysql_login_registration/templates/about.html",
+		"/work/python/flask/mysql_login_registration/templates/login.html",
+		"/work/python/flask/mysql_login_registration/templates/home.html",
+		"/work/python/flask/mysql_login_registration/templates/layout.html",
+		"/work/python/flask/mysql_login_registration/templates/register.html",
+		"/work/python/flask/mysql_login_registration/data.py",
+		"/work/python/flask/mysql_login_registration/app.py",
+		"/work/python/flask/mysql_login_registration/templates/includes/_navbar.html",
+		"/work/python/flask/mysql_login_registration/templates/includes/_messages.html",
+		"/work/python/flask/mysql_login_registration/templates/includes/_formhelpers.html"
+	],
+	"find":
+	{
+		"height": 24.975024975
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/work/python/wxpython"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "wx08.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1529,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								648,
+								648
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 269.73026973,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "wx09_CheckBox.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 742,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								582,
+								582
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "wx10_position.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 855,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								445,
+								445
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "wx11_sizer.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1980,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								47,
+								47
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "wx01.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 138,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								122,
+								122
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "wx02.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 276,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								85,
+								85
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.975024975
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 45.954045954
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 227.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
